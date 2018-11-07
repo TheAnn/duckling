@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541593607798">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541595953649">
   <folder name="css">
     <file name="site_global.css" crc="4218985000"/>
     <file name="master_b-master.css" crc="3902460999" ref="showroom"/>
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="showroom"/>
     <file name="master_a-master.css" crc="147848395" ref="index:about:features"/>
     <file name="nomq_preview_master_a-master.css" crc="65048581" ref="index:about:features"/>
-    <file name="index.css" crc="99154196" ref="index"/>
+    <file name="index.css" crc="3932093773" ref="index"/>
     <file name="nomq_index.css" crc="201784195" ref="index"/>
     <file name="showroom.css" crc="184578119" ref="showroom"/>
     <file name="nomq_showroom.css" crc="193298873" ref="showroom"/>
@@ -247,7 +247,7 @@
     </file>
     <file name="goback_poster_.png" crc="4168750053" ref="showroom"/>
   </folder>
-  <file name="index.html" crc="3785250412" seo="true" mt="1541593572296" redirect="true"/>
+  <file name="index.html" crc="378746584" seo="true" mt="1541595927001" redirect="true"/>
   <file name="features.html" crc="3955639552" seo="true" mt="1541593572296" redirect="true"/>
   <file name="showroom.html" crc="4016124326" seo="true" mt="1541591364007" redirect="true"/>
   <file name="about.html" crc="4269200894" seo="true" mt="1541593572296" redirect="true"/>
