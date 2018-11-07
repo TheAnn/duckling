@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #f09d28;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #262626;
+        font-size: 44px;
+        font-family: HurmeGeometricSans3-Light, "Hurme Geometric Sans 3";
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="_2" data-name="2" transform="translate(-939 -1332)">
+    <g id="Ellipse_227" data-name="Ellipse 227" class="cls-1" transform="translate(939 1332)">
+      <circle class="cls-3" cx="36" cy="36" r="36"/>
+      <circle class="cls-4" cx="36" cy="36" r="35"/>
+    </g>
+    <text id="_2-2" data-name="2" class="cls-2" transform="translate(975 1383)"><tspan x="-10.934" y="0">2</tspan></text>
+  </g>
+</svg>

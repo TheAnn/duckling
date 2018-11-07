@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #f09d28;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #262626;
+        font-size: 44px;
+        font-family: HurmeGeometricSans3-Light, "Hurme Geometric Sans 3";
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_307" data-name="Group 307" transform="translate(-1505 -1330)">
+    <g id="_3" data-name="3">
+      <g id="Ellipse_228" data-name="Ellipse 228" class="cls-1" transform="translate(1505 1330)">
+        <circle class="cls-3" cx="36" cy="36" r="36"/>
+        <circle class="cls-4" cx="36" cy="36" r="35"/>
+      </g>
+      <text id="_3-2" data-name="3" class="cls-2" transform="translate(1541 1381)"><tspan x="-12.188" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>
