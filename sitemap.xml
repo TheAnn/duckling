@@ -15,19 +15,19 @@
       <image:loc>http://duckling.github.io/images/1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/pic1@2x.png</image:loc>
+      <image:loc>http://duckling.github.io/images/phon1@2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://duckling.github.io/images/2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/pic2@2x.png</image:loc>
+      <image:loc>http://duckling.github.io/images/phon2@2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://duckling.github.io/images/3.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/pic3@2x.png</image:loc>
+      <image:loc>http://duckling.github.io/images/phon3@2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://duckling.github.io/images/duckling-font.svg</image:loc>
@@ -74,15 +74,6 @@
     <lastmod>2018-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://duckling.github.io/images/button-download-app-store.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.github.io/images/duckling-font.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.github.io/images/mssg.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
     </image:image>
