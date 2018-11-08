@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541678530673">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541678941300">
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
     <file name="master_b-master.css" crc="3902460999" ref="showroom"/>
@@ -9,8 +9,8 @@
     <file name="nomq_index.css" crc="382971389" ref="index"/>
     <file name="showroom.css" crc="184578119" ref="showroom"/>
     <file name="nomq_showroom.css" crc="193298873" ref="showroom"/>
-    <file name="about.css" crc="531485545" ref="about"/>
-    <file name="nomq_about.css" crc="350771361" ref="about"/>
+    <file name="about.css" crc="3908379190" ref="about"/>
+    <file name="nomq_about.css" crc="458393089" ref="about"/>
     <file name="features.css" crc="531087231" ref="features"/>
     <file name="nomq_features.css" crc="108850972" ref="features"/>
     <file name="master_mastrabout.css" crc="362277701" ref="about"/>
@@ -345,5 +345,5 @@
   <file name="index.html" crc="6627282" seo="true" mt="1541678210514" redirect="true"/>
   <file name="features.html" crc="4243538007" seo="true" mt="1541677893918" redirect="true"/>
   <file name="showroom.html" crc="3942732605" seo="true" mt="1541591364007" redirect="true"/>
-  <file name="about.html" crc="3790018494" seo="true" mt="1541678512741" redirect="true"/>
+  <file name="about.html" crc="66654323" seo="true" mt="1541678918110" redirect="true"/>
 </manifest>
