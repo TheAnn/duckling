@@ -125,5 +125,11 @@
     <image:image>
       <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/goback.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/vectorart-page-4.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
