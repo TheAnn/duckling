@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541679092767">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541692217547">
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
     <file name="master_b-master.css" crc="3902460999" ref="showroom"/>
@@ -7,13 +7,13 @@
     <file name="nomq_preview_master_mastrabout.css" crc="12342184" ref="about"/>
     <file name="master_a-master.css" crc="3836343448" ref="index:features"/>
     <file name="nomq_preview_master_a-master.css" crc="4018796295" ref="index:features"/>
-    <file name="index.css" crc="4098936021" ref="index"/>
+    <file name="index.css" crc="469971381" ref="index"/>
     <file name="nomq_index.css" crc="382971389" ref="index"/>
     <file name="showroom.css" crc="184578119" ref="showroom"/>
     <file name="nomq_showroom.css" crc="193298873" ref="showroom"/>
     <file name="about.css" crc="3908379190" ref="about"/>
     <file name="nomq_about.css" crc="458393089" ref="about"/>
-    <file name="features.css" crc="335818665" ref="features"/>
+    <file name="features.css" crc="113177706" ref="features"/>
     <file name="nomq_features.css" crc="3769136440" ref="features"/>
   </folder>
   <folder name="fonts">
@@ -342,8 +342,8 @@
     </file>
     <file name="vectorart page 4_poster_.png" crc="4022654800" ref="about"/>
   </folder>
-  <file name="index.html" crc="4254806320" seo="true" mt="1541678210514" redirect="true"/>
-  <file name="features.html" crc="3794255952" seo="true" mt="1541677893918" redirect="true"/>
+  <file name="index.html" crc="33212667" seo="true" mt="1541691818666" redirect="true"/>
+  <file name="features.html" crc="4187288528" seo="true" mt="1541692112518" redirect="true"/>
   <file name="showroom.html" crc="3942732605" seo="true" mt="1541591364007" redirect="true"/>
   <file name="about.html" crc="3946051723" seo="true" mt="1541678918110" redirect="true"/>
 </manifest>
