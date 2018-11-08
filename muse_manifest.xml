@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541710004731">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541710464429">
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
     <file name="master_a-master.css" crc="3983640129" ref="features:index"/>
@@ -9,11 +9,11 @@
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="showroom"/>
     <file name="showroom.css" crc="4174981549" ref="showroom"/>
     <file name="nomq_showroom.css" crc="193298873" ref="showroom"/>
-    <file name="about.css" crc="62765627" ref="about"/>
-    <file name="nomq_about.css" crc="4182925854" ref="about"/>
+    <file name="about.css" crc="373227930" ref="about"/>
+    <file name="nomq_about.css" crc="521412152" ref="about"/>
     <file name="features.css" crc="4290310994" ref="features"/>
     <file name="nomq_features.css" crc="3986482588" ref="features"/>
-    <file name="index.css" crc="3785669905" ref="index"/>
+    <file name="index.css" crc="3805924444" ref="index"/>
     <file name="nomq_index.css" crc="50220517" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -349,8 +349,8 @@
     </file>
     <file name="labut4-03_poster_.png" crc="3771541214" ref="about"/>
   </folder>
-  <file name="index.html" crc="4101290939" seo="true" mt="1541709763348" redirect="true"/>
-  <file name="features.html" crc="3782901314" seo="true" mt="1541708739239" redirect="true"/>
+  <file name="index.html" crc="84818316" seo="true" mt="1541710442161" redirect="true"/>
+  <file name="features.html" crc="3782901314" seo="true" mt="1541710442161" redirect="true"/>
   <file name="showroom.html" crc="3917013335" seo="true" mt="1541591364007" redirect="true"/>
-  <file name="about.html" crc="3778914384" seo="true" mt="1541709965680" redirect="true"/>
+  <file name="about.html" crc="437963627" seo="true" mt="1541710358743" redirect="true"/>
 </manifest>
