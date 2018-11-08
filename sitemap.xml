@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://duckling.github.io/index.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>http://duckling.github.io/features.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,6 +67,33 @@
     </image:image>
     <image:image>
       <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/bitsizdinsight@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/siibiggrpictur@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/spkyourmind@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/spacfordpthoughts-01@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/startaconv@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/fryourstory-01@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/frrfromadvrtsting.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/wdontslldata.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.github.io/images/goback.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -83,7 +110,7 @@
   </url>
   <url>
     <loc>http://duckling.github.io/about.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
