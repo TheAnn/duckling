@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1541710780634">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1542662038160">
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
-    <file name="master_a-master.css" crc="3983640129" ref="features:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3922157171" ref="features:index"/>
-    <file name="master_mastrabout.css" crc="101518107" ref="about"/>
-    <file name="nomq_preview_master_mastrabout.css" crc="35636588" ref="about"/>
-    <file name="master_b-master.css" crc="3902460999" ref="showroom"/>
-    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="showroom"/>
-    <file name="showroom.css" crc="4174981549" ref="showroom"/>
-    <file name="nomq_showroom.css" crc="193298873" ref="showroom"/>
-    <file name="about.css" crc="128226138" ref="about"/>
-    <file name="nomq_about.css" crc="4167451176" ref="about"/>
-    <file name="features.css" crc="4290310994" ref="features"/>
-    <file name="nomq_features.css" crc="3986482588" ref="features"/>
-    <file name="index.css" crc="3805924444" ref="index"/>
-    <file name="nomq_index.css" crc="50220517" ref="index"/>
+    <file name="master_mastrabout.css" crc="251167859" ref="about"/>
+    <file name="nomq_preview_master_mastrabout.css" crc="12342184" ref="about"/>
+    <file name="master_b-master.css" crc="4252286847" ref="showroom"/>
+    <file name="nomq_preview_master_b-master.css" crc="3902460999" ref="showroom"/>
+    <file name="master_a-master.css" crc="3836715407" ref="index:features"/>
+    <file name="nomq_preview_master_a-master.css" crc="4018796295" ref="index:features"/>
+    <file name="index.css" crc="4109570460" ref="index"/>
+    <file name="nomq_index.css" crc="163426559" ref="index"/>
+    <file name="about.css" crc="26169654" ref="about"/>
+    <file name="nomq_about.css" crc="450062636" ref="about"/>
+    <file name="features.css" crc="439550106" ref="features"/>
+    <file name="nomq_features.css" crc="4227997373" ref="features"/>
+    <file name="showroom.css" crc="4096494556" ref="showroom"/>
+    <file name="nomq_showroom.css" crc="3920905052" ref="showroom"/>
   </folder>
   <folder name="fonts">
-    <file name="29d0ae_1_0.woff" crc="4021537922"/>
-    <file name="29d0ae_1_0.eot" crc="3868456473"/>
     <file name="29d0ae_0_0.woff" crc="3759577475"/>
     <file name="29d0ae_0_0.eot" crc="3807826147"/>
+    <file name="29d0ae_1_0.woff" crc="4021537922"/>
+    <file name="29d0ae_1_0.eot" crc="3868456473"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:features:showroom:about"/>
@@ -38,6 +38,7 @@
     <file name="require.js" crc="7928878" ref="index:features:showroom:about"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="339616383" ref="index"/>
     <file name="headerfontvectorart.svg" crc="4275489965" ref="index"/>
     <file name="headerfontvectorart_poster_u10868.png" crc="3994866047" ref="index"/>
     <file name="button-download-app-store.svg" crc="286706309" seo="true" ref="index:features:about">
@@ -55,20 +56,29 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="button download app store_poster_.png" crc="3968357807" ref="index:about"/>
+    <file name="button download app store_poster_.png" crc="3997985020" ref="index"/>
     <file name="arrow.svg" crc="423049233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -91,6 +101,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="1_poster_.png" crc="3849804820" ref="index"/>
     <file name="phon1@2x.png" crc="3916615361" seo="true" ref="index">
@@ -101,8 +113,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="2.svg" crc="4117301027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -120,8 +136,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="3.svg" crc="360590133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -139,6 +159,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="duckling-font.svg" crc="138734765" seo="true" ref="index:features:about">
       <caption webpage="index" alt=""/>
@@ -148,19 +170,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="duckling font_poster_.png" crc="4025718156" ref="index:about"/>
+    <file name="duckling font_poster_.png" crc="4025718156" ref="index"/>
     <file name="mssg.svg" crc="221077381" seo="true" ref="index:features:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -169,20 +195,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="mssg_poster_.png" crc="4044914698" ref="index:about"/>
+    <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
     <file name="features-01.svg" crc="454173798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -200,6 +232,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="showroom-01_poster_.png" crc="83603532" ref="index"/>
     <file name="about-01.svg" crc="4068333772" seo="true" ref="index">
@@ -210,9 +244,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="about-01_poster_.png" crc="4148250000" ref="index"/>
-    <file name="mit stamp2-01.png" crc="4200442673" seo="true" ref="index">
+    <file name="mit stamp2-01.png" crc="3856008269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -229,6 +267,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -240,23 +287,11 @@
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="mainlogo_poster_.png" crc="19456442" ref="index:about"/>
+    <file name="mainlogo_poster_.png" crc="19456442" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:features:showroom:about"/>
-    <file name="bitsizdinsight@2x.png" crc="170573059" seo="true" ref="features">
+    <file name="siibiggrpictur@2x.png" crc="4252593899" seo="true" ref="features">
       <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-    </file>
-    <file name="siibiggrpictur@2x.png" crc="4281286943" seo="true" ref="features">
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -264,15 +299,8 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="spkyourmind@2x.png" crc="94122173" seo="true" ref="features">
+    <file name="spkyourmind@2x.png" crc="3859578234" seo="true" ref="features">
       <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-    </file>
-    <file name="spacfordpthoughts-01@2x.png" crc="4068901827" seo="true" ref="features">
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -280,7 +308,8 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="startaconv@2x.png" crc="3933384513" seo="true" ref="features">
+    <file name="bitsizdinsight@2x.png" crc="347960274" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -288,7 +317,26 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="fryourstory-01@2x.png" crc="508665921" seo="true" ref="features">
+    <file name="spacfordpthoughts-01@2x.png" crc="324696147" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="startaconv@2x.png" crc="3878284921" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="fryourstory-01@2x.png" crc="496807892" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -297,6 +345,7 @@
       <caption webpage="features" alt=""/>
     </file>
     <file name="frrfromadvrtsting.svg" crc="412815380" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -312,9 +361,17 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
     </file>
     <file name="wdontslldata_poster_.png" crc="4262867835" ref="features"/>
     <file name="goback.svg" crc="4189894600" seo="true" ref="features:showroom:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -326,13 +383,8 @@
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="goback_poster_.png" crc="110828920" ref="features:about"/>
+    <file name="goback_poster_.png" crc="102390232" ref="features"/>
     <file name="vectorart-page-4.svg" crc="4056909286" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -346,11 +398,12 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="labut4-03_poster_.png" crc="3771541214" ref="about"/>
   </folder>
-  <file name="index.html" crc="84818316" seo="true" mt="1541710442161" redirect="true"/>
-  <file name="features.html" crc="3782901314" seo="true" mt="1541710442161" redirect="true"/>
-  <file name="showroom.html" crc="3917013335" seo="true" mt="1541591364007" redirect="true"/>
-  <file name="about.html" crc="3999138936" seo="true" mt="1541710770625" redirect="true"/>
+  <file name="index.html" crc="519321785" seo="true" mt="1542661385844" redirect="true"/>
+  <file name="features.html" crc="4008167220" seo="true" mt="1542661385844" redirect="true"/>
+  <file name="showroom.html" crc="4048009529" seo="true" mt="1542007016693" redirect="true"/>
+  <file name="about.html" crc="4183458729" seo="true" mt="1542661842540" redirect="true"/>
 </manifest>
