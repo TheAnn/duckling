@@ -1,18 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.github.io" resolutions="1x" timestamp="1542662038160">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1543591326897">
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
-    <file name="master_mastrabout.css" crc="251167859" ref="about"/>
-    <file name="nomq_preview_master_mastrabout.css" crc="12342184" ref="about"/>
+    <file name="master_mastrabout.css" crc="3866528342" ref="about"/>
+    <file name="nomq_preview_master_mastrabout.css" crc="35636588" ref="about"/>
+    <file name="master_a-master.css" crc="23099892" ref="index:terms:features:privacy"/>
+    <file name="nomq_preview_master_a-master.css" crc="97484052" ref="index:terms:features:privacy"/>
     <file name="master_b-master.css" crc="4252286847" ref="showroom"/>
     <file name="nomq_preview_master_b-master.css" crc="3902460999" ref="showroom"/>
-    <file name="master_a-master.css" crc="3836715407" ref="index:features"/>
-    <file name="nomq_preview_master_a-master.css" crc="4018796295" ref="index:features"/>
-    <file name="index.css" crc="4109570460" ref="index"/>
-    <file name="nomq_index.css" crc="163426559" ref="index"/>
-    <file name="about.css" crc="26169654" ref="about"/>
-    <file name="nomq_about.css" crc="450062636" ref="about"/>
-    <file name="features.css" crc="439550106" ref="features"/>
-    <file name="nomq_features.css" crc="4227997373" ref="features"/>
+    <file name="index.css" crc="4066798405" ref="index"/>
+    <file name="nomq_index.css" crc="3970445936" ref="index"/>
+    <file name="terms.css" crc="141399505" ref="terms"/>
+    <file name="nomq_terms.css" crc="4107249822" ref="terms"/>
+    <file name="features.css" crc="4224506264" ref="features"/>
+    <file name="nomq_features.css" crc="172311382" ref="features"/>
+    <file name="about.css" crc="475291285" ref="about"/>
+    <file name="nomq_about.css" crc="68763667" ref="about"/>
+    <file name="privacy.css" crc="54070755" ref="privacy"/>
+    <file name="nomq_privacy.css" crc="39794678" ref="privacy"/>
     <file name="showroom.css" crc="4096494556" ref="showroom"/>
     <file name="nomq_showroom.css" crc="3920905052" ref="showroom"/>
   </folder>
@@ -23,25 +27,25 @@
     <file name="29d0ae_1_0.eot" crc="3868456473"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:features:showroom:about"/>
-    <file name="museutils.js" crc="340535759" ref="index:features:showroom:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:features:showroom:about"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:features:showroom:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:features:showroom:about:terms:privacy"/>
+    <file name="museutils.js" crc="340535759" ref="index:features:showroom:about:terms:privacy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:features:showroom:about:terms:privacy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:features:showroom:about:terms:privacy"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:features:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:features:about:terms:privacy"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:features"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:features:showroom:about"/>
-    <file name="require.js" crc="7928878" ref="index:features:showroom:about"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:features:showroom:about:terms:privacy"/>
+    <file name="require.js" crc="7928878" ref="index:features:showroom:about:terms:privacy"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="339616383" ref="index"/>
     <file name="headerfontvectorart.svg" crc="4275489965" ref="index"/>
     <file name="headerfontvectorart_poster_u10868.png" crc="3994866047" ref="index"/>
-    <file name="button-download-app-store.svg" crc="286706309" seo="true" ref="index:features:about">
+    <file name="button-download-app-store.svg" crc="286706309" seo="true" ref="index:features:about:terms:privacy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -73,6 +77,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
     </file>
     <file name="button download app store_poster_.png" crc="3997985020" ref="index"/>
     <file name="arrow.svg" crc="423049233" seo="true" ref="index">
@@ -162,7 +178,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="duckling-font.svg" crc="138734765" seo="true" ref="index:features:about">
+    <file name="duckling-font.svg" crc="138734765" seo="true" ref="index:features:about:terms:privacy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -185,9 +201,21 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
     </file>
     <file name="duckling font_poster_.png" crc="4025718156" ref="index"/>
-    <file name="mssg.svg" crc="221077381" seo="true" ref="index:features:about">
+    <file name="mssg.svg" crc="221077381" seo="true" ref="index:features:about:terms:privacy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -210,6 +238,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
     </file>
     <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
     <file name="features-01.svg" crc="454173798" seo="true" ref="index">
@@ -259,7 +299,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mainlogo.svg" crc="4013952176" seo="true" ref="index:features:showroom:about">
+    <file name="mainlogo.svg" crc="4013952176" seo="true" ref="index:features:showroom:about:terms:privacy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -269,12 +309,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -282,14 +316,32 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
     </file>
     <file name="mainlogo_poster_.png" crc="19456442" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:features:showroom:about"/>
+    <file name="blank.gif" crc="4208392903" ref="index:features:showroom:about:terms:privacy"/>
     <file name="siibiggrpictur@2x.png" crc="4252593899" seo="true" ref="features">
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
@@ -371,18 +423,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
     </file>
     <file name="goback_poster_.png" crc="102390232" ref="features"/>
     <file name="vectorart-page-4.svg" crc="4056909286" seo="true" ref="about">
@@ -402,8 +454,10 @@
     </file>
     <file name="labut4-03_poster_.png" crc="3771541214" ref="about"/>
   </folder>
-  <file name="index.html" crc="519321785" seo="true" mt="1542661385844" redirect="true"/>
-  <file name="features.html" crc="4008167220" seo="true" mt="1542661385844" redirect="true"/>
+  <file name="index.html" crc="498272711" seo="true" mt="1542662727747" redirect="true"/>
+  <file name="features.html" crc="4174416905" seo="true" mt="1542662356816" redirect="true"/>
   <file name="showroom.html" crc="4048009529" seo="true" mt="1542007016693" redirect="true"/>
-  <file name="about.html" crc="4183458729" seo="true" mt="1542661842540" redirect="true"/>
+  <file name="about.html" crc="296456222" seo="true" mt="1542662319853" redirect="true"/>
+  <file name="terms.html" crc="4086544834" seo="true" mt="1543591181724" redirect="true"/>
+  <file name="privacy.html" crc="3804635487" seo="true" mt="1543590370142" redirect="true"/>
 </manifest>

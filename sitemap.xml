@@ -1,138 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://duckling.github.io/index.html</loc>
+    <loc>http://duckling.co/index.html</loc>
     <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://duckling.github.io/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/arrow.svg</image:loc>
+      <image:loc>http://duckling.co/images/arrow.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/1.svg</image:loc>
+      <image:loc>http://duckling.co/images/1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/phon1@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/phon1@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/2.svg</image:loc>
+      <image:loc>http://duckling.co/images/2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/phon2@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/phon2@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/3.svg</image:loc>
+      <image:loc>http://duckling.co/images/3.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/phon3@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/phon3@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/features-01.svg</image:loc>
+      <image:loc>http://duckling.co/images/features-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/showroom-01.svg</image:loc>
+      <image:loc>http://duckling.co/images/showroom-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/about-01.svg</image:loc>
+      <image:loc>http://duckling.co/images/about-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mit%20stamp2-01.png</image:loc>
+      <image:loc>http://duckling.co/images/mit%20stamp2-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://duckling.github.io/features.html</loc>
+    <loc>http://duckling.co/features.html</loc>
     <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://duckling.github.io/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/siibiggrpictur@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/siibiggrpictur@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/spkyourmind@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/spkyourmind@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/bitsizdinsight@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/bitsizdinsight@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/spacfordpthoughts-01@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/spacfordpthoughts-01@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/startaconv@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/startaconv@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/fryourstory-01@2x.png</image:loc>
+      <image:loc>http://duckling.co/images/fryourstory-01@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/frrfromadvrtsting.svg</image:loc>
+      <image:loc>http://duckling.co/images/frrfromadvrtsting.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/wdontslldata.svg</image:loc>
+      <image:loc>http://duckling.co/images/wdontslldata.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/goback.svg</image:loc>
+      <image:loc>http://duckling.co/images/goback.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://duckling.github.io/showroom.html</loc>
+    <loc>http://duckling.co/showroom.html</loc>
     <lastmod>2018-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/goback.svg</image:loc>
+      <image:loc>http://duckling.co/images/goback.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://duckling.github.io/about.html</loc>
+    <loc>http://duckling.co/about.html</loc>
     <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://duckling.github.io/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/mainlogo.svg</image:loc>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/goback.svg</image:loc>
+      <image:loc>http://duckling.co/images/goback.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/vectorart-page-4.svg</image:loc>
+      <image:loc>http://duckling.co/images/vectorart-page-4.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.github.io/images/labut4-03.svg</image:loc>
+      <image:loc>http://duckling.co/images/labut4-03.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/terms.html</loc>
+    <lastmod>2018-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/privacy.html</loc>
+    <lastmod>2018-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
   </url>
 </urlset>
