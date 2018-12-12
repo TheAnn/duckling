@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544549114536">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544621490573">
   <folder name="assets">
     <file name="carousel_gallery.mulib" crc="45166677" seo="true" mt="1544542216000"/>
     <file name="1.png" crc="196144936" seo="true" mt="1544548250000"/>
@@ -10,7 +10,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
-    <file name="master_a-master.css" crc="4180023146" ref="terms:privacy:index:features"/>
+    <file name="master_a-master.css" crc="4250355587" ref="terms:privacy:index:features"/>
     <file name="nomq_preview_master_a-master.css" crc="249404312" ref="terms:privacy:index:features"/>
     <file name="master_mastrabout.css" crc="3883063736" ref="about"/>
     <file name="nomq_preview_master_mastrabout.css" crc="12342184" ref="about"/>
@@ -24,8 +24,8 @@
     <file name="nomq_showroom.css" crc="3920905052" ref="showroom"/>
     <file name="about.css" crc="3902444307" ref="about"/>
     <file name="nomq_about.css" crc="3904730540" ref="about"/>
-    <file name="index.css" crc="4276402782" ref="index"/>
-    <file name="nomq_index.css" crc="494337335" ref="index"/>
+    <file name="index.css" crc="3919020699" ref="index"/>
+    <file name="nomq_index.css" crc="122355191" ref="index"/>
     <file name="features.css" crc="3861753727" ref="features"/>
     <file name="nomq_features.css" crc="84656259" ref="features"/>
   </folder>
@@ -39,7 +39,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:features:showroom:about:terms:privacy"/>
     <file name="museutils.js" crc="340535759" ref="index:features:showroom:about:terms:privacy"/>
     <file name="whatinput.js" crc="86476730" ref="index:features:showroom:about:terms:privacy"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:features:showroom:about:terms:privacy"/>
+    <file name="museconfig.js" crc="462583865" ref="index:features:showroom:about:terms:privacy"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:features:about:terms:privacy"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about"/>
@@ -81,19 +81,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -259,19 +259,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -299,19 +299,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -326,7 +326,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
-    <file name="siibiggrpictur@2x.png" crc="4252593899" seo="true" ref="index:features">
+    <file name="siibiggrpictur@2x.png" crc="4139192448" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -347,7 +347,7 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="spkyourmind@2x.png" crc="3859578234" seo="true" ref="index:features">
+    <file name="spkyourmind@2x.png" crc="156075828" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -368,7 +368,7 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="bitsizdinsight@2x.png" crc="347960274" seo="true" ref="index:features">
+    <file name="bitsizdinsight@2x.png" crc="4148570357" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -389,7 +389,7 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="spacfordpthoughts-01@2x.png" crc="324696147" seo="true" ref="index:features">
+    <file name="spacfordpthoughts-01@2x.png" crc="3886216240" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -410,7 +410,7 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="startaconv@2x.png" crc="3878284921" seo="true" ref="index:features">
+    <file name="startaconv@2x.png" crc="467023192" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -431,7 +431,7 @@
       <caption webpage="features" alt=""/>
       <caption webpage="features" alt=""/>
     </file>
-    <file name="fryourstory-01@2x.png" crc="496807892" seo="true" ref="index:features">
+    <file name="fryourstory-01@2x.png" crc="38735883" seo="true" ref="index:features">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -593,8 +593,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="1-buttonu65412-fr.png" crc="4006155416" ref="index"/>
+    <file name="2-buttonu67037-fr.png" crc="200643591" ref="index"/>
+    <file name="4-buttonu67088-fr.png" crc="412143405" ref="index"/>
+    <file name="3-buttonu67129-fr.png" crc="3762843434" ref="index"/>
+    <file name="5-buttonu67170-fr.png" crc="3904929973" ref="index"/>
+    <file name="6.png" crc="4175068514" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3925351129" seo="true" mt="1544548882650" redirect="true"/>
+  <file name="index.html" crc="257434945" seo="true" mt="1544621463593" redirect="true"/>
   <file name="features.html" crc="4049558131" seo="true" mt="1544537527613" redirect="true"/>
   <file name="showroom.html" crc="158709437" seo="true" mt="1542007016693" redirect="true"/>
   <file name="about.html" crc="62371368" seo="true" mt="1544471084461" redirect="true"/>
