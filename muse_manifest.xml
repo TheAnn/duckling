@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544627076490">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544627655284">
   <folder name="assets">
     <file name="carousel_gallery.mulib" crc="45166677" seo="true" mt="1544542216000"/>
     <file name="1.png" crc="196144936" seo="true" mt="1544548250000"/>
@@ -24,8 +24,8 @@
     <file name="nomq_showroom.css" crc="3920905052" ref="showroom"/>
     <file name="about.css" crc="3902444307" ref="about"/>
     <file name="nomq_about.css" crc="3904730540" ref="about"/>
-    <file name="index.css" crc="3799958273" ref="index"/>
-    <file name="nomq_index.css" crc="487773325" ref="index"/>
+    <file name="index.css" crc="3780647278" ref="index"/>
+    <file name="nomq_index.css" crc="4244732416" ref="index"/>
     <file name="features.css" crc="3861753727" ref="features"/>
     <file name="nomq_features.css" crc="84656259" ref="features"/>
   </folder>
@@ -81,19 +81,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -259,19 +259,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -299,19 +299,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
@@ -715,7 +715,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="170586537" seo="true" mt="1544626973493" redirect="true"/>
+  <file name="index.html" crc="3818140365" seo="true" mt="1544627458475" redirect="true"/>
   <file name="features.html" crc="4049558131" seo="true" mt="1544537527613" redirect="true"/>
   <file name="showroom.html" crc="158709437" seo="true" mt="1542007016693" redirect="true"/>
   <file name="about.html" crc="62371368" seo="true" mt="1544471084461" redirect="true"/>
