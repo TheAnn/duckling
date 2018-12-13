@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544628249866">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544696898282">
   <folder name="assets">
     <file name="carousel_gallery.mulib" crc="45166677" seo="true" mt="1544542216000"/>
     <file name="1.png" crc="196144936" seo="true" mt="1544548250000"/>
@@ -10,7 +10,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4131438561"/>
-    <file name="master_a-master.css" crc="3883564194" ref="terms:privacy:index:features"/>
+    <file name="master_a-master.css" crc="318582070" ref="terms:privacy:index:features"/>
     <file name="nomq_preview_master_a-master.css" crc="249404312" ref="terms:privacy:index:features"/>
     <file name="master_mastrabout.css" crc="3883063736" ref="about"/>
     <file name="nomq_preview_master_mastrabout.css" crc="12342184" ref="about"/>
@@ -24,8 +24,8 @@
     <file name="nomq_showroom.css" crc="3920905052" ref="showroom"/>
     <file name="about.css" crc="3902444307" ref="about"/>
     <file name="nomq_about.css" crc="3904730540" ref="about"/>
-    <file name="index.css" crc="139423938" ref="index"/>
-    <file name="nomq_index.css" crc="4098457002" ref="index"/>
+    <file name="index.css" crc="314122585" ref="index"/>
+    <file name="nomq_index.css" crc="486785917" ref="index"/>
     <file name="features.css" crc="3933892288" ref="features"/>
     <file name="nomq_features.css" crc="4249708005" ref="features"/>
   </folder>
@@ -81,35 +81,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
     </file>
     <file name="button download app store_poster_.png" crc="3997985020" ref="index"/>
     <file name="arrow.svg" crc="423049233" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -259,31 +258,31 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
     </file>
     <file name="duckling font_poster_.png" crc="4025718156" ref="index"/>
     <file name="mssg.svg" crc="221077381" seo="true" ref="index:features:about:terms:privacy">
@@ -299,31 +298,31 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
       <caption webpage="privacy" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
     </file>
     <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
     <file name="siibiggrpictur@2x.png" crc="4252593899" seo="true" ref="index:features">
@@ -509,30 +508,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
       <caption webpage="showroom" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -624,98 +623,98 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="6-buttonu68476-fr.png" crc="4175068514" ref="index"/>
-    <file name="1205x282.png" crc="17438651" seo="true" ref="index">
+    <file name="1-crop-u72478.png" crc="377083176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2205x282.png" crc="63052844" seo="true" ref="index">
+    <file name="2-crop-u72806.png" crc="379720993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3205x282.png" crc="384004148" seo="true" ref="index">
+    <file name="3-crop-u72903.png" crc="4146313246" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4205x282.png" crc="265663913" seo="true" ref="index">
+    <file name="4-crop-u73000.png" crc="3780361299" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5205x282.png" crc="6488171" seo="true" ref="index">
+    <file name="5-crop-u73097.png" crc="3920568152" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6205x282.png" crc="4056099228" seo="true" ref="index">
+    <file name="6-crop-u73194.png" crc="395003913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u72478.png" crc="326900853" seo="true" ref="index">
+    <file name="1-crop-u724782.png" crc="3952725079" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u72806.png" crc="4229833656" seo="true" ref="index">
+    <file name="2-crop-u728062.png" crc="77910559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u72903.png" crc="4278970369" seo="true" ref="index">
+    <file name="3-crop-u729032.png" crc="3970252070" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u73000.png" crc="4028526653" seo="true" ref="index">
+    <file name="4-crop-u730002.png" crc="4004832270" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u73097.png" crc="16820814" seo="true" ref="index">
+    <file name="5-crop-u730972.png" crc="3830557477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u73194.png" crc="3927640936" seo="true" ref="index">
+    <file name="6-crop-u731942.png" crc="4145360247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724782.png" crc="357075650" seo="true" ref="index">
+    <file name="1-crop-u724783.png" crc="357075650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728062.png" crc="378889909" seo="true" ref="index">
+    <file name="2-crop-u728063.png" crc="378889909" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729032.png" crc="3884012541" seo="true" ref="index">
+    <file name="3-crop-u729033.png" crc="3884012541" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730002.png" crc="220443681" seo="true" ref="index">
+    <file name="4-crop-u730003.png" crc="220443681" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730972.png" crc="327862482" seo="true" ref="index">
+    <file name="5-crop-u730973.png" crc="327862482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731942.png" crc="298662898" seo="true" ref="index">
+    <file name="6-crop-u731943.png" crc="298662898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724783.png" crc="52123397" seo="true" ref="index">
+    <file name="1-crop-u724784.png" crc="52123397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728063.png" crc="219406023" seo="true" ref="index">
+    <file name="2-crop-u728064.png" crc="219406023" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729033.png" crc="528950368" seo="true" ref="index">
+    <file name="3-crop-u729034.png" crc="528950368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730003.png" crc="132091343" seo="true" ref="index">
+    <file name="4-crop-u730004.png" crc="132091343" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730973.png" crc="4117106669" seo="true" ref="index">
+    <file name="5-crop-u730974.png" crc="4117106669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731943.png" crc="438884173" seo="true" ref="index">
+    <file name="6-crop-u731944.png" crc="438884173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724784.png" crc="4073785877" seo="true" ref="index">
+    <file name="1-crop-u724785.png" crc="4073785877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728064.png" crc="334789035" seo="true" ref="index">
+    <file name="2-crop-u728065.png" crc="334789035" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729034.png" crc="3801859026" seo="true" ref="index">
+    <file name="3-crop-u729035.png" crc="3801859026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730004.png" crc="3775723875" seo="true" ref="index">
+    <file name="4-crop-u730005.png" crc="3775723875" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730974.png" crc="4045810411" seo="true" ref="index">
+    <file name="5-crop-u730975.png" crc="4045810411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731944.png" crc="365940958" seo="true" ref="index">
+    <file name="6-crop-u731945.png" crc="365940958" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4198106786" seo="true" mt="1544628096279" redirect="true"/>
+  <file name="index.html" crc="345852669" seo="true" mt="1544696672523" redirect="true"/>
   <file name="features.html" crc="29116177" seo="true" mt="1544627863626" redirect="true"/>
   <file name="showroom.html" crc="158709437" seo="true" mt="1542007016693" redirect="true"/>
   <file name="about.html" crc="62371368" seo="true" mt="1544471084461" redirect="true"/>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://duckling.co/index.html</loc>
-    <lastmod>2018-12-12</lastmod>
+    <lastmod>2018-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -90,24 +90,6 @@
       <image:loc>http://duckling.co/images/5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/1205x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/2205x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/3205x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/4205x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/5205x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/6205x282.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://duckling.co/images/1-crop-u72478.png</image:loc>
     </image:image>
     <image:image>
@@ -178,6 +160,24 @@
     </image:image>
     <image:image>
       <image:loc>http://duckling.co/images/6-crop-u731944.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u724785.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u728065.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u729035.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u730005.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u730975.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u731945.png</image:loc>
     </image:image>
   </url>
   <url>
