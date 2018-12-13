@@ -179,86 +179,44 @@
     <image:image>
       <image:loc>http://duckling.co/images/6-crop-u731945.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/group-411.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://duckling.co/terms.html</loc>
-    <lastmod>2018-12-12</lastmod>
+    <loc>http://duckling.co/duckling-insight-media-network-danish.html</loc>
+    <lastmod>2018-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/arrow.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://duckling.co/privacy.html</loc>
-    <lastmod>2018-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/phon1@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/phon2@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://duckling.co/about.html</loc>
-    <lastmod>2018-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/3.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+      <image:loc>http://duckling.co/images/phon3@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+      <image:loc>http://duckling.co/images/insight%20high%20edu@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/vectorart-page-4.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/labut4-03.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://duckling.co/showroom.html</loc>
-    <lastmod>2018-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://duckling.co/images/goback.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://duckling.co/features.html</loc>
-    <lastmod>2018-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+      <image:loc>http://duckling.co/images/middleschoolers@2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
@@ -294,8 +252,185 @@
       <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://duckling.co/images/goback.svg</image:loc>
+      <image:loc>http://duckling.co/images/iconlink@2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/group-417.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u89378.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u89388.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u89382.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u89380.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u89384.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u89386.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u893782.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u893882.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u893822.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u893802.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u893842.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u893862.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u893783.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u893883.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u893823.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u893803.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u893843.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u893863.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u893784.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u893884.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u893824.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u893804.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u893844.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u893864.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/1-crop-u893785.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/2-crop-u893885.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/3-crop-u893825.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/4-crop-u893805.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/5-crop-u893845.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/6-crop-u893865.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/privacy.html</loc>
+    <lastmod>2018-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/terms.html</loc>
+    <lastmod>2018-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/about.html</loc>
+    <lastmod>2018-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://duckling.co/images/button-download-app-store.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/duckling-font.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mssg.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/mainlogo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/vectorart-page-4.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://duckling.co/images/labut4-03.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://duckling.co/assets/3.png</loc>
+    <lastmod>2018-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://duckling.co/assets/4.png</loc>
@@ -310,25 +445,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://duckling.co/assets/3.png</loc>
-    <lastmod>2018-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://duckling.co/assets/2.png</loc>
     <lastmod>2018-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://duckling.co/assets/5.png</loc>
+    <loc>http://duckling.co/assets/carousel_gallery.mulib</loc>
     <lastmod>2018-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://duckling.co/assets/carousel_gallery.mulib</loc>
+    <loc>http://duckling.co/assets/5.png</loc>
     <lastmod>2018-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
