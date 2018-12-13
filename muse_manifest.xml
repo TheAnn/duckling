@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544708337309">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544713722804">
   <folder name="assets">
     <file name="carousel_gallery.mulib" crc="45166677" seo="true" mt="1544542216000"/>
     <file name="1.png" crc="196144936" seo="true" mt="1544548250000"/>
@@ -20,10 +20,10 @@
     <file name="nomq_privacy.css" crc="4007009359" ref="privacy"/>
     <file name="about.css" crc="4200472311" ref="about"/>
     <file name="nomq_about.css" crc="4215640493" ref="about"/>
-    <file name="index.css" crc="342259246" ref="index"/>
-    <file name="nomq_index.css" crc="3995821991" ref="index"/>
-    <file name="duckling-insight-media-network-danish.css" crc="3997308922" ref="duckling-insight-media-network-danish"/>
-    <file name="nomq_duckling-insight-media-network-danish.css" crc="353950331" ref="duckling-insight-media-network-danish"/>
+    <file name="index.css" crc="4182609473" ref="index"/>
+    <file name="nomq_index.css" crc="4060239420" ref="index"/>
+    <file name="duckling-insight-media-network-danish.css" crc="519657864" ref="duckling-insight-media-network-danish"/>
+    <file name="nomq_duckling-insight-media-network-danish.css" crc="72453388" ref="duckling-insight-media-network-danish"/>
   </folder>
   <folder name="fonts">
     <file name="29d0ae_0_0.woff" crc="3759577475"/>
@@ -1104,9 +1104,9 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="424730217" seo="true" mt="1544708163884" redirect="true"/>
+  <file name="index.html" crc="224286326" seo="true" mt="1544708961982" redirect="true"/>
   <file name="about.html" crc="4035043954" seo="true" mt="1544704614322" redirect="true"/>
   <file name="terms.html" crc="4237168421" seo="true" mt="1544627863626" redirect="true"/>
   <file name="privacy.html" crc="418402318" seo="true" mt="1544627863626" redirect="true"/>
-  <file name="duckling-insight-media-network-danish.html" crc="320243011" seo="true" mt="1544708252727" redirect="true"/>
+  <file name="duckling-insight-media-network-danish.html" crc="120023576" seo="true" mt="1544713645577" redirect="true"/>
 </manifest>
