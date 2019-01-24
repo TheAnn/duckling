@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.753 20.915">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #f09d28;
+      }
+
+      .cls-2 {
+        stroke: #f09d28;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_166" data-name="Group 166" transform="translate(-1533 -823.5)">
+    <path id="Fill_5" data-name="Fill 5" class="cls-1" d="M3.034,0A3.01,3.01,0,0,0,0,2.986V13.439a3.01,3.01,0,0,0,3.034,2.986H13.9l-3.11-2.986H3.034V2.986H19.719V13.439H15.631v2.986h4.089a3.01,3.01,0,0,0,3.034-2.986V2.986A3.01,3.01,0,0,0,19.719,0Z" transform="translate(1533 823.5)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-2" d="M6.068,5.226,0,0" transform="translate(1543.618 838.431)"/>
+  </g>
+</svg>

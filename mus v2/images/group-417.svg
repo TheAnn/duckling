@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 37" style="enable-background:new 0 0 60 37;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#Rectangle_752_1_);}
+	.st1{fill:#C62322;}
+	.st2{fill:none;stroke:#FCFCF9;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#C62322;stroke-width:4;}
+	.st5{fill:#FCFDF9;stroke:#C62322;stroke-width:4;}
+</style>
+<g>
+	<defs>
+		<path id="Rectangle_752" d="M5.8,1.7h48.7c2.2,0,4,1.8,4,4V32c0,2.2-1.8,4-4,4H5.8c-2.2,0-4-1.8-4-4V5.7C1.8,3.5,3.5,1.7,5.8,1.7z
+			"/>
+	</defs>
+	<use xlink:href="#Rectangle_752"  style="overflow:visible;fill:#1B5089;"/>
+	<clipPath id="Rectangle_752_1_">
+		<use xlink:href="#Rectangle_752"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<g id="Rectangle_756" transform="translate(1833.488 56.018) rotate(-30)">
+			<path class="st1" d="M-1574.6-936.2h63c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h-63c-1.1,0-2-0.9-2-2l0,0
+				C-1576.6-935.4-1575.7-936.2-1574.6-936.2z"/>
+			<path class="st2" d="M-1574.6-935.7h63c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5h-63c-0.8,0-1.5-0.7-1.5-1.5l0,0
+				C-1576.1-935.1-1575.4-935.7-1574.6-935.7z"/>
+		</g>
+		<g id="Rectangle_757" transform="translate(1835.488 22.518) rotate(30)">
+			<path class="st1" d="M-1597.1,897.2h63c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h-63c-1.1,0-2-0.9-2-2l0,0
+				C-1599.1,898.1-1598.2,897.2-1597.1,897.2z"/>
+			<path class="st2" d="M-1597.1,897.7h63c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5h-63c-0.8,0-1.5-0.7-1.5-1.5l0,0
+				C-1598.6,898.4-1597.9,897.7-1597.1,897.7z"/>
+		</g>
+		<rect id="Rectangle_758" x="1.5" y="15.5" class="st3" width="57" height="7"/>
+		<g id="Rectangle_759" transform="translate(1860 24)">
+			<rect x="-1833.5" y="-22.5" class="st3" width="6" height="35"/>
+			<rect x="-1833" y="-22" class="st2" width="5" height="34"/>
+		</g>
+		<line id="Line_11" class="st4" x1="1.8" y1="19" x2="58.4" y2="19"/>
+		<path id="Path_1214" class="st5" d="M29.5,1.7V36"/>
+	</g>
+</g>
+</svg>

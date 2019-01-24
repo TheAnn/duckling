@@ -1,4 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1544713722804">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="duckling.co" resolutions="1x" timestamp="1548345033126">
+  <folder name="css">
+    <file name="site_global.css" crc="4131438561"/>
+    <file name="master_a-master.css" crc="429428195" ref="privacy:duckling-insight-media-network-danish:index:terms"/>
+    <file name="nomq_preview_master_a-master.css" crc="249404312" ref="privacy:duckling-insight-media-network-danish:index:terms"/>
+    <file name="master_mastrabout.css" crc="4037821572" ref="about"/>
+    <file name="nomq_preview_master_mastrabout.css" crc="226561396" ref="about"/>
+    <file name="privacy.css" crc="381820612" ref="privacy"/>
+    <file name="nomq_privacy.css" crc="3834119856" ref="privacy"/>
+    <file name="duckling-insight-media-network-danish.css" crc="3779551388" ref="duckling-insight-media-network-danish"/>
+    <file name="nomq_duckling-insight-media-network-danish.css" crc="338906867" ref="duckling-insight-media-network-danish"/>
+    <file name="index.css" crc="4204738906" ref="index"/>
+    <file name="nomq_index.css" crc="12347386" ref="index"/>
+    <file name="about.css" crc="212771256" ref="about"/>
+    <file name="nomq_about.css" crc="416222596" ref="about"/>
+    <file name="terms.css" crc="515597729" ref="terms"/>
+    <file name="nomq_terms.css" crc="135744364" ref="terms"/>
+  </folder>
+  <folder name="fonts">
+    <file name="29d0ae_0_0.woff" crc="3759577475"/>
+    <file name="29d0ae_0_0.eot" crc="3807826147"/>
+    <file name="29d0ae_1_0.woff" crc="4021537922"/>
+    <file name="29d0ae_1_0.eot" crc="3868456473"/>
+  </folder>
   <folder name="assets">
     <file name="carousel_gallery.mulib" crc="45166677" seo="true" mt="1544542216000"/>
     <file name="1.png" crc="196144936" seo="true" mt="1544548250000"/>
@@ -7,29 +30,6 @@
     <file name="4.png" crc="3922382303" seo="true" mt="1544548250000"/>
     <file name="5.png" crc="494047715" seo="true" mt="1544548250000"/>
     <file name="6.png" crc="478187456" seo="true" mt="1544548250000"/>
-  </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="4131438561"/>
-    <file name="master_a-master.css" crc="318582070" ref="terms:privacy:index:duckling-insight-media-network-danish"/>
-    <file name="nomq_preview_master_a-master.css" crc="249404312" ref="terms:privacy:index:duckling-insight-media-network-danish"/>
-    <file name="master_mastrabout.css" crc="4037821572" ref="about"/>
-    <file name="nomq_preview_master_mastrabout.css" crc="226561396" ref="about"/>
-    <file name="terms.css" crc="244819512" ref="terms"/>
-    <file name="nomq_terms.css" crc="459423063" ref="terms"/>
-    <file name="privacy.css" crc="3966392360" ref="privacy"/>
-    <file name="nomq_privacy.css" crc="4007009359" ref="privacy"/>
-    <file name="about.css" crc="4200472311" ref="about"/>
-    <file name="nomq_about.css" crc="4215640493" ref="about"/>
-    <file name="index.css" crc="4182609473" ref="index"/>
-    <file name="nomq_index.css" crc="4060239420" ref="index"/>
-    <file name="duckling-insight-media-network-danish.css" crc="519657864" ref="duckling-insight-media-network-danish"/>
-    <file name="nomq_duckling-insight-media-network-danish.css" crc="72453388" ref="duckling-insight-media-network-danish"/>
-  </folder>
-  <folder name="fonts">
-    <file name="29d0ae_0_0.woff" crc="3759577475"/>
-    <file name="29d0ae_0_0.eot" crc="3807826147"/>
-    <file name="29d0ae_1_0.woff" crc="4021537922"/>
-    <file name="29d0ae_1_0.eot" crc="3868456473"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:terms:privacy:duckling-insight-media-network-danish"/>
@@ -50,6 +50,22 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="339616383" ref="index"/>
+    <file name="group-411.svg" crc="335006455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 411_poster_.png" crc="373191821" ref="index"/>
     <file name="headerfontvectorart.svg" crc="4275489965" ref="index:duckling-insight-media-network-danish"/>
     <file name="headerfontvectorart_poster_u10868.png" crc="3994866047" ref="index:duckling-insight-media-network-danish"/>
     <file name="button-download-app-store.svg" crc="286706309" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
@@ -77,55 +93,52 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
       <caption webpage="terms" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
     </file>
     <file name="button download app store_poster_.png" crc="3997985020" ref="index"/>
     <file name="arrow.svg" crc="423049233" seo="true" ref="index:duckling-insight-media-network-danish">
@@ -148,6 +161,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -182,6 +199,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -196,7 +215,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="1_poster_.png" crc="3849804820" ref="index"/>
-    <file name="phon1@2x.png" crc="3916615361" seo="true" ref="index:duckling-insight-media-network-danish">
+    <file name="phon1@2x.png" crc="3974683239" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -209,6 +228,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -235,6 +256,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -249,7 +272,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="2_poster_.png" crc="4056035219" ref="index"/>
-    <file name="phon2@2x.png" crc="168320559" seo="true" ref="index:duckling-insight-media-network-danish">
+    <file name="phon2@2x.png" crc="3785814751" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -262,6 +285,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -288,6 +313,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -302,7 +329,8 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="3_poster_.png" crc="516478395" ref="index"/>
-    <file name="phon3@2x.png" crc="439069984" seo="true" ref="index:duckling-insight-media-network-danish">
+    <file name="phon3@2x.png" crc="53270148" seo="true" ref="index:duckling-insight-media-network-danish">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -316,31 +344,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-    </file>
-    <file name="insight high edu@2x.png" crc="85021282" seo="true" ref="index:duckling-insight-media-network-danish">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -354,7 +357,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="middleschoolers@2x.png" crc="10371531" seo="true" ref="index:duckling-insight-media-network-danish">
+    <file name="iconlink@2x.png" crc="145007206" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -367,6 +370,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -380,7 +385,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="duckling-font.svg" crc="138734765" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
+    <file name="mask group 23@2x.png" crc="3837259829" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -393,24 +398,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -423,16 +411,9 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="duckling font_poster_.png" crc="4025718156" ref="index"/>
-    <file name="mssg.svg" crc="221077381" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
+    <file name="mask group 22@2x.png" crc="4252781963" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -445,24 +426,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -475,15 +439,14 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
+    <file name="1-buttonu65412-fr.png" crc="3788786539" ref="index:duckling-insight-media-network-danish"/>
+    <file name="2-buttonu67037-fr.png" crc="4001220272" ref="index:duckling-insight-media-network-danish"/>
+    <file name="4-buttonu67088-fr.png" crc="318846280" ref="index:duckling-insight-media-network-danish"/>
+    <file name="3-buttonu67129-fr.png" crc="3924517632" ref="index:duckling-insight-media-network-danish"/>
+    <file name="5-buttonu67170-fr.png" crc="3967970887" ref="index:duckling-insight-media-network-danish"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:terms:privacy:duckling-insight-media-network-danish"/>
     <file name="siibiggrpictur@2x.png" crc="4252593899" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -497,6 +460,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -509,13 +473,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="spkyourmind@2x.png" crc="3859578234" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -530,6 +488,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -542,13 +501,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="bitsizdinsight@2x.png" crc="347960274" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -563,6 +516,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -575,13 +529,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="spacfordpthoughts-01@2x.png" crc="324696147" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -596,6 +544,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -608,13 +557,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="startaconv@2x.png" crc="3878284921" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -629,6 +572,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -641,13 +585,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="fryourstory-01@2x.png" crc="496807892" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -662,6 +600,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -674,13 +613,7 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
     <file name="frrfromadvrtsting.svg" crc="412815380" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
@@ -695,6 +628,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -707,15 +641,9 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="frrfromadvrtsting_poster_.png" crc="287405829" ref="index"/>
+    <file name="frrfromadvrtsting_poster_.png" crc="4178978546" ref="index"/>
     <file name="wdontslldata.svg" crc="3940769275" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -729,6 +657,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -741,40 +670,105 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
-    <file name="wdontslldata_poster_.png" crc="151210217" ref="index"/>
+    <file name="wdontslldata_poster_.png" crc="345306315" ref="index"/>
+    <file name="mssg.svg" crc="221077381" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+    </file>
+    <file name="mssg_poster_.png" crc="4044914698" ref="index"/>
+    <file name="duckling-font.svg" crc="138734765" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+    </file>
+    <file name="duckling font_poster_.png" crc="4025718156" ref="index"/>
     <file name="mainlogo.svg" crc="4013952176" seo="true" ref="index:about:terms:privacy:duckling-insight-media-network-danish">
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="privacy" alt=""/>
-      <caption webpage="showroom" alt=""/>
-      <caption webpage="showroom" alt=""/>
-      <caption webpage="showroom" alt=""/>
-      <caption webpage="showroom" alt=""/>
-      <caption webpage="showroom" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="features" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
-      <caption webpage="terms" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -793,6 +787,12 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -805,62 +805,21 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
+      <caption webpage="terms" alt=""/>
     </file>
     <file name="mainlogo_poster_.png" crc="19456442" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about:terms:privacy:duckling-insight-media-network-danish"/>
-    <file name="vectorart-page-4.svg" crc="4056909286" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="vectorart page 4_poster_.png" crc="4022654800" ref="about"/>
-    <file name="labut4-03.svg" crc="114211536" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="labut4-03_poster_.png" crc="3771541214" ref="about"/>
-    <file name="iconlink@2x.png" crc="145007206" seo="true" ref="index:duckling-insight-media-network-danish">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-    </file>
-    <file name="1-buttonu65412-fr.png" crc="4006155416" ref="index:duckling-insight-media-network-danish"/>
-    <file name="2-buttonu67037-fr.png" crc="200643591" ref="index:duckling-insight-media-network-danish"/>
-    <file name="4-buttonu67088-fr.png" crc="412143405" ref="index:duckling-insight-media-network-danish"/>
-    <file name="3-buttonu67129-fr.png" crc="3762843434" ref="index:duckling-insight-media-network-danish"/>
-    <file name="5-buttonu67170-fr.png" crc="3904929973" ref="index:duckling-insight-media-network-danish"/>
-    <file name="6.png" crc="21448488" ref="index:duckling-insight-media-network-danish" seo="true">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-      <caption webpage="duckling-insight-media-network-danish" alt=""/>
-    </file>
+    <file name="1-buttonu65412-fr2.png" crc="4006155416" ref="index:duckling-insight-media-network-danish"/>
+    <file name="2-buttonu67037-fr2.png" crc="200643591" ref="index:duckling-insight-media-network-danish"/>
+    <file name="4-buttonu67088-fr2.png" crc="412143405" ref="index:duckling-insight-media-network-danish"/>
+    <file name="3-buttonu67129-fr2.png" crc="3762843434" ref="index:duckling-insight-media-network-danish"/>
+    <file name="5-buttonu67170-fr2.png" crc="3904929973" ref="index:duckling-insight-media-network-danish"/>
+    <file name="6-buttonu68476-fr.png" crc="4175068514" ref="index:duckling-insight-media-network-danish"/>
     <file name="1.png" crc="3905195109" seo="true" ref="index:duckling-insight-media-network-danish">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -891,8 +850,13 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
+    <file name="6.png" crc="21448488" seo="true" ref="index:duckling-insight-media-network-danish">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="index:duckling-insight-media-network-danish"/>
-    <file name="6-buttonu68476-fr.png" crc="4175068514" ref="index:duckling-insight-media-network-danish"/>
     <file name="1-crop-u72478.png" crc="377083176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -911,40 +875,40 @@
     <file name="6-crop-u73194.png" crc="395003913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724782.png" crc="3952725079" seo="true" ref="index">
+    <file name="1-crop-u724782.png" crc="216061512" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728062.png" crc="77910559" seo="true" ref="index">
+    <file name="2-crop-u728062.png" crc="3806504365" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729032.png" crc="3970252070" seo="true" ref="index">
+    <file name="3-crop-u729032.png" crc="396307813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730002.png" crc="4004832270" seo="true" ref="index">
+    <file name="4-crop-u730002.png" crc="4016447917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730972.png" crc="3830557477" seo="true" ref="index">
+    <file name="5-crop-u730972.png" crc="178927358" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731942.png" crc="4145360247" seo="true" ref="index">
+    <file name="6-crop-u731942.png" crc="3831081975" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724783.png" crc="357075650" seo="true" ref="index">
+    <file name="1-crop-u724783.png" crc="3952725079" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728063.png" crc="378889909" seo="true" ref="index">
+    <file name="2-crop-u728063.png" crc="77910559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729033.png" crc="3884012541" seo="true" ref="index">
+    <file name="3-crop-u729033.png" crc="3970252070" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730003.png" crc="220443681" seo="true" ref="index">
+    <file name="4-crop-u730003.png" crc="4004832270" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730973.png" crc="327862482" seo="true" ref="index">
+    <file name="5-crop-u730973.png" crc="3830557477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731943.png" crc="298662898" seo="true" ref="index">
+    <file name="6-crop-u731943.png" crc="4145360247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-crop-u724784.png" crc="52123397" seo="true" ref="index">
@@ -965,40 +929,42 @@
     <file name="6-crop-u731944.png" crc="438884173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u724785.png" crc="4073785877" seo="true" ref="index">
+    <file name="1-crop-u724785.png" crc="135477226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u728065.png" crc="334789035" seo="true" ref="index">
+    <file name="2-crop-u728065.png" crc="4102165247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u729035.png" crc="3801859026" seo="true" ref="index">
+    <file name="3-crop-u729035.png" crc="4199090225" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-crop-u730005.png" crc="3775723875" seo="true" ref="index">
+    <file name="4-crop-u730005.png" crc="4252238516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u730975.png" crc="4045810411" seo="true" ref="index">
+    <file name="5-crop-u730975.png" crc="20699039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6-crop-u731945.png" crc="365940958" seo="true" ref="index">
+    <file name="6-crop-u731945.png" crc="421366183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group-411.svg" crc="335006455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="vectorart-page-4.svg" crc="4056909286" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="group 411_poster_.png" crc="373191821" ref="index"/>
+    <file name="vectorart page 4_poster_.png" crc="4022654800" ref="about"/>
+    <file name="labut4-03.svg" crc="114211536" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="labut4-03_poster_.png" crc="3771541214" ref="about"/>
     <file name="group-417.svg" crc="421821542" seo="true" ref="duckling-insight-media-network-danish">
+      <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
@@ -1104,9 +1070,9 @@
       <caption webpage="duckling-insight-media-network-danish" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="224286326" seo="true" mt="1544708961982" redirect="true"/>
-  <file name="about.html" crc="4035043954" seo="true" mt="1544704614322" redirect="true"/>
-  <file name="terms.html" crc="4237168421" seo="true" mt="1544627863626" redirect="true"/>
-  <file name="privacy.html" crc="418402318" seo="true" mt="1544627863626" redirect="true"/>
-  <file name="duckling-insight-media-network-danish.html" crc="120023576" seo="true" mt="1544713645577" redirect="true"/>
+  <file name="index.html" crc="3840873691" seo="true" mt="1548344671758" redirect="true"/>
+  <file name="about.html" crc="391812213" seo="true" mt="1548343190031" redirect="true"/>
+  <file name="terms.html" crc="310714658" seo="true" mt="1548344671758" redirect="true"/>
+  <file name="privacy.html" crc="89957784" seo="true" mt="1548344671758" redirect="true"/>
+  <file name="duckling-insight-media-network-danish.html" crc="294543602" seo="true" mt="1548344671758" redirect="true"/>
 </manifest>

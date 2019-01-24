@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 71.2 40.9" style="enable-background:new 0 0 71.2 40.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#Rectangle_752_1_);fill:none;stroke:#FCFCF9;stroke-width:4;}
+</style>
+<g>
+	<defs>
+		<path id="Rectangle_752" d="M7.7,3.7h48.7c2.2,0,4,1.8,4,4V34c0,2.2-1.8,4-4,4H7.7c-2.2,0-4-1.8-4-4V7.7C3.7,5.5,5.5,3.7,7.7,3.7z
+			"/>
+	</defs>
+	<use xlink:href="#Rectangle_752"  style="overflow:visible;fill:#C62322;"/>
+	<clipPath id="Rectangle_752_1_">
+		<use xlink:href="#Rectangle_752"  style="overflow:visible;"/>
+	</clipPath>
+	<line id="Line_11" class="st0" x1="-4" y1="20.9" x2="67.2" y2="20.9"/>
+	<line id="Line_12" class="st0" x1="16.5" y1="0" x2="16.5" y2="40.9"/>
+</g>
+</svg>

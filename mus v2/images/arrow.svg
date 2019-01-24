@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c62322;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="arrow" transform="translate(42 2) rotate(90)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M0,20,20,0" transform="translate(0 20)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M20,20,0,0"/>
+  </g>
+</svg>
